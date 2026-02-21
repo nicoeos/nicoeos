@@ -2,5 +2,4 @@
 - 👀 I’m an MBA student in France with a background in Chemical Engineering. My interests span across AI-first ventures, startups, finance, cost accounting, strategy, and creative industries. 
 - 🌱 I’m currently experimenting with low-code to build practical tools and solutions for entrepreneurs. Alongside this, I'm brushing up on my Python and data analysis skills (linear/logistic regression) and expanding into machine learning. 
 - 💡 I love observing real-world problems and creating accessible, tech-driven solutions to solve them.
-- 💞️ I’m looking to collaborate on low-code projects, startup ventures, or analyzing data and imagery to drive creative strategies.
-- 📫 How to reach me: https://www.linkedin.com/in/nicolaseobando/
+- 📫 I’m looking to collaborate on low-code projects, startup ventures, or analyzing data and imagery to drive creative strategies.
